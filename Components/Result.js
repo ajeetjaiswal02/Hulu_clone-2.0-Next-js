@@ -1,4 +1,4 @@
-import Thumbnail from "./ThumbNail"
+import Thumbnail from "./Thumbnail"
 
 function Result({results}) {
     return (
